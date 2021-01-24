@@ -1,5 +1,7 @@
 # Git Cheatsheet
 
+![Git Data Transport Commands](git-transport.png)
+
 Command | Purpose
 ---- | ----
 `git status` | Estado de los cambios en local y en el area de staging
