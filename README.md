@@ -1,9 +1,7 @@
 # Git Cheatsheet
 
-![Git Data Transport Commands](git-transport.png)
 <a href="https://blog.osteele.com/2008/05/my-git-workflow/" target="_blank"><img src="https://rubenmromero.s3.eu-west-1.amazonaws.com/images/git-transport.png" alt="Git Data Transport Commands" class="image"></a>
 
-<p style="text-align:left">
 Command | Purpose
 ---- | ----
 `git status` | Show the status of local and staged changes
@@ -39,6 +37,5 @@ Command | Purpose
 `git reset --hard origin/<branch>` | Discard all commits and changes made in the current branch (staged or not) overwriting it to the current state of the remote branch `<branch>` (hard reset), whether or not this is linked to the current branch
 `git stash`* | Stash all pending changes to be commited (staged or not) in a dirty working directory away except for new files not yet staged, which are kept in the same state (created in the working tree)
 `git stash pop`* | Recover previously stashed changes through the `git stash` command in the current branch
-</p>
 
 \* These commands are very useful when there are pending changes to be commited in the current branch, and it is needed to switch (`git checkout`) to a different branch, in order to prevent it from trying to carry them to the switched branch.
