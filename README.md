@@ -1,6 +1,6 @@
 # Git Cheatsheet
 
-<a href="https://blog.osteele.com/2008/05/my-git-workflow/" target="_blank"><img src="https://rubenmromero.s3.eu-west-1.amazonaws.com/images/git-transport.png" alt="Git Data Transport Commands" class="image"></a>
+<a href="https://blog.osteele.com/2008/05/my-git-workflow/" target="_blank"><img src="https://rubenmromero.s3.eu-west-1.amazonaws.com/images/git-transport.png" alt="Git Data Transport Commands" class="image" style="display:block;margin-left:auto;margin-right:auto"></a>
 
 Command | Purpose
 ---- | ----
