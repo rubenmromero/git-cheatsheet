@@ -1,1 +1,8 @@
+title: Git Cheatsheet
+description: Git cheatsheet to get along with Git without going crazy
+google_analytics: UA-133287190-1
+show_downloads: false
 theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
